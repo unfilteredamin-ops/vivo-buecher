@@ -1,0 +1,9 @@
+{
+  "appId": "com.vivo.buecher",
+  "appName": "vivo Bücher",
+  "webDir": "dist",
+  "backgroundColor": "#f6f1e7",
+  "android": {
+    "allowMixedContent": false
+  }
+}

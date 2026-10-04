@@ -1,0 +1,5 @@
+node_modules/
+dist/
+android/
+admin/config.js
+.DS_Store
